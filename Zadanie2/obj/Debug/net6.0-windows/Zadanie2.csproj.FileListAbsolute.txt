@@ -1,0 +1,16 @@
+D:\st\3курс\практика по программированию\5 модуль Алантьев\WinFormsApp1\Zadanie2\bin\Debug\net6.0-windows\Zadanie2.exe
+D:\st\3курс\практика по программированию\5 модуль Алантьев\WinFormsApp1\Zadanie2\bin\Debug\net6.0-windows\Zadanie2.deps.json
+D:\st\3курс\практика по программированию\5 модуль Алантьев\WinFormsApp1\Zadanie2\bin\Debug\net6.0-windows\Zadanie2.runtimeconfig.json
+D:\st\3курс\практика по программированию\5 модуль Алантьев\WinFormsApp1\Zadanie2\bin\Debug\net6.0-windows\Zadanie2.dll
+D:\st\3курс\практика по программированию\5 модуль Алантьев\WinFormsApp1\Zadanie2\bin\Debug\net6.0-windows\Zadanie2.pdb
+D:\st\3курс\практика по программированию\5 модуль Алантьев\WinFormsApp1\Zadanie2\obj\Debug\net6.0-windows\Zadanie2.Form1.resources
+D:\st\3курс\практика по программированию\5 модуль Алантьев\WinFormsApp1\Zadanie2\obj\Debug\net6.0-windows\Zadanie2.csproj.GenerateResource.cache
+D:\st\3курс\практика по программированию\5 модуль Алантьев\WinFormsApp1\Zadanie2\obj\Debug\net6.0-windows\Zadanie2.GeneratedMSBuildEditorConfig.editorconfig
+D:\st\3курс\практика по программированию\5 модуль Алантьев\WinFormsApp1\Zadanie2\obj\Debug\net6.0-windows\Zadanie2.AssemblyInfoInputs.cache
+D:\st\3курс\практика по программированию\5 модуль Алантьев\WinFormsApp1\Zadanie2\obj\Debug\net6.0-windows\Zadanie2.AssemblyInfo.cs
+D:\st\3курс\практика по программированию\5 модуль Алантьев\WinFormsApp1\Zadanie2\obj\Debug\net6.0-windows\Zadanie2.csproj.CoreCompileInputs.cache
+D:\st\3курс\практика по программированию\5 модуль Алантьев\WinFormsApp1\Zadanie2\obj\Debug\net6.0-windows\Zadanie2.dll
+D:\st\3курс\практика по программированию\5 модуль Алантьев\WinFormsApp1\Zadanie2\obj\Debug\net6.0-windows\refint\Zadanie2.dll
+D:\st\3курс\практика по программированию\5 модуль Алантьев\WinFormsApp1\Zadanie2\obj\Debug\net6.0-windows\Zadanie2.pdb
+D:\st\3курс\практика по программированию\5 модуль Алантьев\WinFormsApp1\Zadanie2\obj\Debug\net6.0-windows\Zadanie2.genruntimeconfig.cache
+D:\st\3курс\практика по программированию\5 модуль Алантьев\WinFormsApp1\Zadanie2\obj\Debug\net6.0-windows\ref\Zadanie2.dll
